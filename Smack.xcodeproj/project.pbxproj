@@ -19,6 +19,7 @@
 		E69D2FDB204DEB3500DB227B /* gradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69D2FDA204DEB3500DB227B /* gradientView.swift */; };
 		E69D2FDE204F009A00DB227B /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69D2FDD204F009A00DB227B /* Constants.swift */; };
 		E69D2FE0204F379600DB227B /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69D2FDF204F379600DB227B /* LoginVC.swift */; };
+		E69D2FE220501A9E00DB227B /* CreateAccountVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = E69D2FE120501A9E00DB227B /* CreateAccountVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		E69D2FDA204DEB3500DB227B /* gradientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gradientView.swift; sourceTree = "<group>"; };
 		E69D2FDD204F009A00DB227B /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E69D2FDF204F379600DB227B /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		E69D2FE120501A9E00DB227B /* CreateAccountVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				E69D2FCC204DB8DE00DB227B /* ChatVC.swift */,
 				E69D2FCE204DB8EF00DB227B /* ChannelVC.swift */,
 				E69D2FDF204F379600DB227B /* LoginVC.swift */,
+				E69D2FE120501A9E00DB227B /* CreateAccountVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			files = (
 				E69D2FCF204DB8EF00DB227B /* ChannelVC.swift in Sources */,
 				E69D2FDE204F009A00DB227B /* Constants.swift in Sources */,
+				E69D2FE220501A9E00DB227B /* CreateAccountVC.swift in Sources */,
 				E69D2FCD204DB8DE00DB227B /* ChatVC.swift in Sources */,
 				E69D2FDB204DEB3500DB227B /* gradientView.swift in Sources */,
 				E69D2FE0204F379600DB227B /* LoginVC.swift in Sources */,
